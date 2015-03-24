@@ -1,0 +1,33 @@
+h1 {
+	text-align:center;
+	Color: #294860;
+}
+
+.lesson {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 0px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept-title {
+	background-color: white;
+	font-size: 24px;
+	margin: 6px;
+	text-align: center;
+	color: #294860;
+}
+
+.concept-description {
+	background-color: white;
+	color: #294860;
+	font-weight: lighter;
+	margin: 6px
+}
+
+
